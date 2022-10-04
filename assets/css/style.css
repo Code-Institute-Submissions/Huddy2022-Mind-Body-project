@@ -55,7 +55,9 @@ h1,h2,h3 {
 .active {
     border-bottom: 1px solid white;
 }
+
 /* hero image */
+
 #hero-outer {
     width: 100%;
     height: 600px;
@@ -67,4 +69,12 @@ h1,h2,h3 {
     height: 600px;
     background: url(../images/Yoga\ meditation.jpeg) no-repeat center center;
     background-size: cover;
+}
+
+/* club ethos */
+
+#ethos-heading {
+    position: relative;
+    text-align: center;
+    padding: 10px;
 }
