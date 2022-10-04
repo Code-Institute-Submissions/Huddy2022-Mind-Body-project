@@ -76,25 +76,22 @@ h1,h2,h3 {
 #club-ethos {
     height:600px
 }
-.ethos-heading {
-    position: relative;
+#ethos-heading {
     text-align: center;
-    padding: 10px;
     font-size: 180%;
+    padding-top: 15px;
 }
-.yoga-html {
-    position: relative;
+#left-about {
     float: left;
-    left: 200px;
-    font-size: 120%;
+    width: 33%;
+    padding-top: 10px;
 }
-.pilates-html {
-    position: relative;
+#right-about {
     float: right;
-    right: 200px;
-    font-size: 120%;
+    width: 33%;
+    padding-top: 10px;
 }
-.yoga-html p {
-    position: relative;
-    text-align: center;
-}
+hr {
+    border-top: 1px solid white;
+    width: 100%;
+    margin: 5px;
