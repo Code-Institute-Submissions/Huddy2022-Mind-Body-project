@@ -8,7 +8,7 @@
 
 body {
     font-family: Hind, sans-serif;
-    font-weight: 500;
+    font-weight: bold;
     color: black;
     background-color: #034f84;
 
@@ -91,7 +91,22 @@ h1,h2,h3 {
     width: 33%;
     padding-top: 10px;
 }
+.yoga-html {
+    width: 60%;
+    float: right;
+}
+.yoga-html, h2 {
+    text-align: center;
+}
 hr {
-    border-top: 1px solid white;
+    border-top: 1px solid black;
     width: 100%;
-    margin: 5px;
+    margin: 5px
+}
+.pilates-html {
+    width: 60%;
+    float: left;
+}
+.pilates-html, h2 {
+    text-align: center;
+}
