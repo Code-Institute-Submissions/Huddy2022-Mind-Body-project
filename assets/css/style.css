@@ -85,11 +85,13 @@ h1,h2,h3 {
     float: left;
     width: 33%;
     padding-top: 10px;
+    margin-left: 10%;
 }
 #right-about {
     float: right;
     width: 33%;
     padding-top: 10px;
+    margin-right: 10%;
 }
 .yoga-html {
     width: 60%;
@@ -98,15 +100,21 @@ h1,h2,h3 {
 .yoga-html, h2 {
     text-align: center;
 }
+.yoga-html, img {
+    width: 100%;
+}
 hr {
     border-top: 1px solid black;
     width: 100%;
     margin: 5px
 }
 .pilates-html {
-    width: 60%;
+    width: 100%;
     float: left;
 }
 .pilates-html, h2 {
     text-align: center;
+}
+.pilates-html, img {
+        width: 100%;
 }
