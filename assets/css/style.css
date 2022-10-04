@@ -73,8 +73,28 @@ h1,h2,h3 {
 
 /* club ethos */
 
-#ethos-heading {
+#club-ethos {
+    height:600px
+}
+.ethos-heading {
     position: relative;
     text-align: center;
     padding: 10px;
+    font-size: 180%;
+}
+.yoga-html {
+    position: relative;
+    float: left;
+    left: 200px;
+    font-size: 120%;
+}
+.pilates-html {
+    position: relative;
+    float: right;
+    right: 200px;
+    font-size: 120%;
+}
+.yoga-html p {
+    position: relative;
+    text-align: center;
 }
