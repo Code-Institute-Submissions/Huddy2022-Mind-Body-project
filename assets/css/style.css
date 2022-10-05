@@ -162,4 +162,7 @@ footer {
 }
 .social-networks i {
     color: white;
+    padding: 10px;
+    font-size: 300%;
+    margin: 5%;
 }
