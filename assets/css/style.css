@@ -93,14 +93,14 @@ h1,h2,h3 {
     padding-top: 10px;
     margin-right: 10%;
 }
-.yoga-html {
+.yoga-about {
     width: 60%;
     float: right;
 }
-.yoga-html, h2 {
+.yoga-about, h2 {
     text-align: center;
 }
-.yoga-html, img {
+.yoga-about, img {
     width: 100%;
 }
 hr {
@@ -108,14 +108,14 @@ hr {
     width: 100%;
     margin: 5px
 }
-.pilates-html {
+.pilates-about {
     width: 100%;
     float: left;
 }
-.pilates-html, h2 {
+.pilates-about, h2 {
     text-align: center;
 }
-.pilates-html, img {
+.pilates-about, img {
         width: 100%;
         clear: both;
 }
@@ -167,4 +167,25 @@ footer {
     padding: 10px;
     font-size: 300%;
     margin: 5%;
+}
+/* club classes */
+#club-classes {
+    height: 600px;
+}
+#classes-header {
+    text-align: center;
+    font-size: 125%;
+    padding-top: 5%;
+}
+#left-classes {
+    float: left;
+    width: 33%;
+    padding-top: 10px;
+    margin-left: 10%;
+}
+#right-classes {
+    float: right;
+    width: 33%;
+    padding-top: 10px;
+    margin-right: 10%;
 }
