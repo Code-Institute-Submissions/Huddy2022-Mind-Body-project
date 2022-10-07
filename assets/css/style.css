@@ -176,16 +176,34 @@ footer {
     text-align: center;
     font-size: 125%;
     padding-top: 5%;
+    margin-bottom: 5%;
 }
 #left-classes {
     float: left;
     width: 33%;
     padding-top: 10px;
     margin-left: 10%;
+
+}
+#left-classes ol {
+    border: 3px solid black;
+    text-align-last: left;
+    padding-inline-start: 10%;
+    width: 350px;
+    margin-left: 15%;
+    margin-top: 10px;
 }
 #right-classes {
     float: right;
     width: 33%;
     padding-top: 10px;
     margin-right: 10%;
+}
+#right-classes ol {
+    border: 3px solid black;
+    text-align-last: left;
+    padding-inline-start: 10%;
+    width: 250px;
+    margin-top: 10px;
+    margin-left: 20%;
 }
