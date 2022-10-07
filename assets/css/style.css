@@ -185,7 +185,7 @@ footer {
 }
 #classes-header {
     font-size: 130%;
-    font-family: oswald, sans-serif;
+    font-family: Montserrat, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
 
@@ -216,6 +216,7 @@ footer {
     width: 350px;
     margin-left: 15%;
     margin-top: 10px;
+    background-color: white;
 }
 #right-classes {
     float: right;
@@ -230,4 +231,5 @@ footer {
     width: 250px;
     margin-top: 10px;
     margin-left: 20%;
+    background-color: white;
 }
