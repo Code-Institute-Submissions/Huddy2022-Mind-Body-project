@@ -144,17 +144,20 @@ img {
 }
 #about-table {
     float: right;
-    width: 33%;
+    width: 40%;
     right: 350px;
     margin-top: 10px;
 }
-table, tr, td, th {
+#about-table td, tr {
     border: 1px solid black;
+    text-align: left;
+    padding: 8px;
     background-color: white;
 }
 /* footer */
 footer {
     height: 150px;
+    margin-top: 10px;
 }
 .social-networks {
     text-align: center;
@@ -242,7 +245,8 @@ footer {
   width: 100%;
 }
 #center-classes td, th {
-        border: 1px solid black;
-        text-align: left;
-        padding: 8px;
+    border: 1px solid black;
+    text-align: left;
+    padding: 8px;
+    background-color: white;
 }
