@@ -156,11 +156,14 @@ img {
 }
 /* footer */
 footer {
-    height: 150px;
+    height: 250px;
     margin-top: 10px;
+    background-color: black;
+    overflow: hidden;
 }
 .social-networks {
     text-align: center;
+    line-height: 150px;
 }
 .social-networks li {
     display: inline;
