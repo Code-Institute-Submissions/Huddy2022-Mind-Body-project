@@ -173,7 +173,6 @@ footer {
     height: 600px;
     width: 100%;
     overflow: hidden;
-
     position: relative;
 }
 #header-image {
@@ -201,6 +200,11 @@ footer {
     right: 150px;
 
     position: absolute;
+}
+/* classes section */
+#classes-section {
+    height: 350px;
+    width: 100%;
 }
 #left-classes {
     float: left;
@@ -232,4 +236,13 @@ footer {
     margin-top: 10px;
     margin-left: 20%;
     background-color: white;
+}
+#center-classes {
+    border-collapse: collapse;
+  width: 100%;
+}
+#center-classes td, th {
+        border: 1px solid black;
+        text-align: left;
+        padding: 8px;
 }
