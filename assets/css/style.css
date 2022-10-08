@@ -264,5 +264,11 @@ footer {
     background-position: center;
 }
 .sign-up-form {
-    position: absolute;
+border: 2px solid black;
+max-width: 350px;
+background-color: rgba(24, 57, 241, 0.7);
+float: left;
+position: absolute;
+left: 10%;
+top: 25%;
 }
