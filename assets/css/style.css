@@ -287,3 +287,20 @@ label {
 .text-input:hover {
     background-color:#3a3a3a
 }
+#choose-your-class {
+    margin-left: 5px;
+    border-style: groove;
+    border-color: black;
+}
+.submit-button {
+    display: block;
+    color: white;
+    background-color: transparent;
+    border-style: groove;
+    border: 3px solid black;
+    margin: 10px 0 10px 5px;
+    font-size: 20px;
+}
+.submit-button:hover {
+    background-color: #3a3a3a;
+}
