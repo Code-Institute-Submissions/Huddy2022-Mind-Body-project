@@ -309,7 +309,16 @@ label {
 /* for large and medium screen sizes from 1200px wide and down */
 @media screen and (max-width: 1200px){
 #left-classes h2 {
-    width: 500px;
+    width: 400px;
+}
+#left-classes ol {
+    margin-left: 0;
+}
+#classes-header {
+    right: 50px;
+}
+#right-classes h2 {
+    width: 400px;
 }
 }
 
@@ -321,8 +330,29 @@ label {
 #right-classes h2 {
     width: 400px;
 }
+#left-classes ol {
+    margin-left: 0;
+}
+#left-classes h2 {
+    width: 400px;
+}
 }
 /* smaller screen sizes from 800px wide and down */
 @media screen and (max-width: 800px) {
-
+#left-classes {
+    margin-left: 5%;
+}
+#left-classes ol {
+    width:300px;
+}
+#left-classes h2 {
+    width: 350px;
+}
+#right-classes ol {
+    margin-left: 0;
+}
+#right-classes h2 {
+    position: relative;
+    right: 15%;
+}
 }
