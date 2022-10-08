@@ -254,3 +254,15 @@ footer {
     padding: 8px;
     background-color: white;
 }
+/* sign up form */
+.sign-up-background {
+    height: 800px;
+    width: 100%;
+    overflow: hidden;
+    background-image: url(../images/woman\ doing\ yoga.jpeg);
+    background-size: cover;
+    background-position: center;
+}
+.sign-up-form {
+    position: absolute;
+}
