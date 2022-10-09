@@ -220,7 +220,7 @@ footer {
     margin-left: 10%;
 
 }
-#left-classes ol {
+#left-classes h3, ol {
     border: 3px solid black;
     text-align-last: left;
     padding-inline-start: 10%;
@@ -235,7 +235,7 @@ footer {
     padding-top: 10px;
     margin-right: 10%;
 }
-#right-classes ol {
+#right-classes h3, ol {
     border: 3px solid black;
     text-align-last: left;
     padding-inline-start: 10%;
@@ -253,6 +253,9 @@ footer {
     text-align: left;
     padding: 8px;
     background-color: white;
+}
+#club-classes, h3 {
+    color: black;
 }
 /* sign up form */
 .sign-up-background {
