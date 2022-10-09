@@ -154,6 +154,12 @@ img {
     padding: 8px;
     background-color: white;
 }
+#about-us h3 {
+    color: white;
+}
+#club-ethos h3 {
+    color: white;
+}
 /* footer */
 footer {
     height: 250px;
