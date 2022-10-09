@@ -264,6 +264,11 @@ footer {
     width: 400px;
     margin-left: 40px;
 }
+.prices {
+    color: white;
+    position: relative;
+    margin: 10px 0 10px 10px;
+}
 /* sign up form */
 .sign-up-background {
     height: 800px;
