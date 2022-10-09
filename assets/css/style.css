@@ -329,17 +329,34 @@ label {
 
 /* for large and medium screen sizes from 1200px wide and down */
 @media screen and (max-width: 1200px){
-#left-classes h2 {
+.pilates-about img {
+    margin-top: 22px;
+}
+    #left-classes h2 {
     width: 400px;
+    position: relative;
+    right: 8%;
 }
 #left-classes ol {
     margin-left: 0;
+}
+#left-classes h3 {
+    margin-left: 0px;
+    width: 300px;
 }
 #classes-header {
     right: 50px;
 }
 #right-classes h2 {
     width: 400px;
+}
+#right-classes h3 {
+    margin-left: 0px;
+    position: relative;
+    right: 10px;
+}
+#right-classes ol {
+    margin-left: 50px;
 }
 }
 
