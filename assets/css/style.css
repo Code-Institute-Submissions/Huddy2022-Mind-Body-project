@@ -229,6 +229,9 @@ footer {
     margin-top: 10px;
     background-color: white;
 }
+#left-classes ol {
+    width: 300px;
+}
 #right-classes {
     float: right;
     width: 33%;
@@ -256,6 +259,10 @@ footer {
 }
 #club-classes, h3 {
     color: black;
+}
+#right-classes h3 {
+    width: 400px;
+    margin-left: 40px;
 }
 /* sign up form */
 .sign-up-background {
