@@ -336,8 +336,30 @@ label {
 #classes-header {
     right: 10px;
 }
+#right-classes {
+    width: 100%;
+    float: left;
+    clear: both;
+    margin: 0 auto;
 }
-
+#left-classes {
+    width: 100%;
+    float: left;
+    margin: 0 auto;
+}
+#left-classes h3 {
+    margin: 10px auto;
+}
+#left-classes ol {
+    margin: 0 auto;
+}
+#right-classes h3 {
+    margin: 10px auto;
+}
+#right-classes ol {
+    margin: 0 auto;
+}
+}
 /* medium screen sizes from 950px wide and down */
 @media screen and (max-width: 950px){
     #menu {
