@@ -412,3 +412,16 @@ label {
         font-size: 100%;
     }
 }
+/* smaller screen sizes from 500px wide and down */
+@media screen and (max-width: 500px) {
+    #classes-section {
+        font-size: 75%;
+       width: 75%;
+    }
+    #classes-section h3 {
+        font-size: 10px;
+    }
+    .prices {
+        clear: both;
+    }
+}
