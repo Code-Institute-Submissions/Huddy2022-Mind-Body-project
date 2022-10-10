@@ -333,6 +333,9 @@ label {
     width: 75%;
     margin: 0 auto;
 }
+#classes-header {
+    right: 10px;
+}
 }
 
 /* medium screen sizes from 950px wide and down */
@@ -380,5 +383,10 @@ label {
     }
     #about-list ul {
         text-align: center;
+    }
+    #classes-header {
+        width: 200px;
+        height: 150px;
+        font-size: 100%;
     }
 }
