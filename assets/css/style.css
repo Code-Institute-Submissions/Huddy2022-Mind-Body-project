@@ -364,9 +364,21 @@ label {
         float: left;
         margin: 0 auto;
     }
+    #about-table table {
+        margin: 0 auto;
+    }
+    #about-table h3{
+        text-align: center;
+    }
     #about-list {
         width: 100%;
         float: left;
         margin: 0 auto;
+    }
+    #about-list h3 {
+        text-align: center;
+    }
+    #about-list ul {
+        text-align: center;
     }
 }
