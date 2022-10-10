@@ -424,4 +424,9 @@ label {
     .prices {
         clear: both;
     }
+    .sign-up-form {
+        margin-top: 20px;
+        padding-right: 15px;
+        width: 200px
+    }
 }
