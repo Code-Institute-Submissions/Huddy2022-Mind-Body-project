@@ -118,10 +118,8 @@ hr {
 .pilates-about, img {
         width: 100%;
         clear: both;
-}
-img {
-    border-radius: 25%;
-}
+        border-radius: 25%;
+} 
 /* about us */
 #about-us {
     height: 300px;
@@ -324,6 +322,18 @@ label {
 }
 .submit-button:hover {
     background-color: #3a3a3a;
+}
+/* thankyou.html */
+#photos {
+    height: 800px;
+    line-height: 0;
+    column-count: 2;
+    column-gap: 0;
+    width: 100%;
+}
+#photos img {
+    border-radius: 0%;
+    height: 400px;
 }
 /* media queries */
 
