@@ -367,7 +367,7 @@ label {
 
 /* for large and medium screen sizes from 1200px wide and down */
 @media screen and (max-width: 1200px){
-#club-ethos, #about-us {
+#club-ethos #about-us {
     width: 75%;
     margin: 0 auto;
 }
@@ -410,6 +410,30 @@ label {
         margin-bottom: 20px;
         line-height: 25px;
     }
+    #about-table {
+        width: 100%;
+        clear: both;
+        float: left;
+        margin: 0 auto;
+    }
+    #about-table table {
+        margin: 0 auto;
+    }
+    #about-table h3{
+        text-align: center;
+    }
+    #about-list {
+        width: 100%;
+        float: left;
+        margin: 0 auto;
+    }
+    #about-list h3 {
+        text-align: center;
+    }
+    #about-list ul {
+        text-align: center;
+        margin: 0 auto;
+    }
     #right-about {
         width: 100%;
         float: left;
@@ -449,6 +473,7 @@ label {
     }
     #about-list ul {
         text-align: center;
+        margin: 0 auto;
     }
     #classes-header {
         width: 200px;
@@ -493,5 +518,8 @@ label {
 @media screen and (max-width: 400px) {
     #photos-header {
         font-size: 5px;
+    }
+    #about-list ul {
+        width: 200px;
     }
 }
