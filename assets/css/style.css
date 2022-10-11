@@ -81,6 +81,15 @@ h1,h2,h3 {
     font-size: 180%;
     padding-top: 15px;
 }
+#club-ethos p {
+    background-color: white;
+    border: groove;
+    border-color: black;
+    border-width: thick;
+}
+#club-ethos img {
+    padding-top: 10px;
+}
 #left-about {
     float: left;
     width: 33%;
@@ -104,7 +113,6 @@ h1,h2,h3 {
     width: 100%;
 }
 hr {
-    border-top: 1px solid black;
     width: 100%;
     margin: 5px
 }
@@ -139,6 +147,14 @@ hr {
     width: 33%;
     margin-top: 10px; 
     margin-left: 18%;   
+}
+.offer-list {
+    background-color: white;
+    border: groove;
+    border-color: black;
+    border-width: thick;
+    padding-left: 25px;
+    width: 330px;
 }
 #about-table {
     float: right;
@@ -405,9 +421,6 @@ label {
         float: left;
         margin: 0 auto;
     }
-    #photos {
-        column-width: 75%;
-    }
     #photos-header {
         font-size: 25px;
     }
@@ -451,9 +464,6 @@ label {
 }
 /* smaller screen sizes from 600px wide and down */
 @media screen and (max-width: 600px) {
-    #photos {
-        column-rule-width: 85%;
-    }
     #photos img {
         height: 250px;
     }
