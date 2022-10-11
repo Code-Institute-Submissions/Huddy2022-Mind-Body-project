@@ -335,6 +335,18 @@ label {
     border-radius: 0%;
     height: 400px;
 }
+#photos-header {
+    position: absolute;
+    right: 0px;
+    left: 0px;
+    top: 475px;
+    bottom: 0px;
+    font-size: 30px;
+}
+#photos-header strong {
+    background-color: #3a3a3a;
+    padding: 5px;
+}
 /* media queries */
 
 /* for large and medium screen sizes from 1200px wide and down */
