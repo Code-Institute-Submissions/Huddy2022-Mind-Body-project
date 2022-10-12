@@ -182,6 +182,15 @@ footer {
     background-color: black;
     overflow: hidden;
 }
+footer h2 {
+    text-align: center;
+    padding-top: 15px;
+}
+footer h3 {
+    color: white;
+    text-align: center;
+    padding-top: 15px;
+}
 .social-networks {
     text-align: center;
     line-height: 150px;
