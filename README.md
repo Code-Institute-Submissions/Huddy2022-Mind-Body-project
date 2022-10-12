@@ -2,7 +2,7 @@
 
 Mind and body is a site that is aimed to helping any age or fitness level, learn methods of body/mind self improvement techniques through classes in yoga and pilates. The site will be targeted to men and women of any age and fitness level, who are looking for a way to socialise and keep their mind and body fit. Mind and body will be useful in a way that the user will be able to learn new techniques/exercises/poses to improve the body/mind and to be able to choose classes that fits around their lifestyle. 
 
-![Responsive Mockup](../Mind-Body-project/assets/images/am_i_responsive.jpg)
+![Responsive Mockup](https://github.com/Huddy2022/Mind-Body-project/blob/main/assets/images/am_i_responsive.jpg)
 
 ## Features ##
 
