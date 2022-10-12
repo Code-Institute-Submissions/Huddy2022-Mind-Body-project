@@ -402,6 +402,9 @@ label {
 #classes-header {
     right: 10px;
 }
+#hero-header {
+    right: 10px;
+}
 #right-classes {
     width: 100%;
     float: left;
@@ -437,6 +440,11 @@ label {
         margin-left: 30px;
         margin-bottom: 20px;
         line-height: 25px;
+    }
+    #hero-header {
+        width: 200px;
+        height: 200px;
+        font-size: 80%;
     }
     #about-table {
         width: 100%;
