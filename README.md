@@ -103,17 +103,17 @@ Mind and body is a site that is aimed to helping any age or fitness level, learn
 - Orginally i had 6 errors on the inex.html, 4 errors on the classes.html, 1 error on the signup.html and 6 errors on the thankyou.html.
 - I can confirm now, no errors were returned when passing through the official w3c validator on all four pages.
 
-  [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
+  [W3C validator](https://github.com/Huddy2022/Mind-Body-project/blob/main/assets/images/w3c%20markup%20validator.jpg)
 
 - __CSS__
 - Orginally i had two errors on my style.css.
   - I can confirm now, no errors were found when passing through the official w3c css validator.
   
-   [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
+   [(Jigsaw) validator](https://github.com/Huddy2022/Mind-Body-project/blob/main/assets/images/w3c%20css%20validation.jpg)
 
 - __Accessibility__
 - I confirmed the colors and fonts are easy to read and accesibile by running it through lighthouse in dev tools for all four pages.
-[Lighthouse](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
+[Lighthouse](https://github.com/Huddy2022/Mind-Body-project/blob/main/assets/images/lighthouse.jpg)
 
 ### Bugs ###
 
