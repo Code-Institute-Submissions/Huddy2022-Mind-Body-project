@@ -16,7 +16,7 @@ Mind and body is a site that is aimed to helping any age or fitness level, learn
   - The navigation is in white with a navy blue background to have an easy contrast for users.
   - Home, classes and signup have a class="active" attribute that allows the user to understand which page they are on by being underlined
 
-![Nav Bar](../Mind-Body-project/assets/images/nav_bar.jpg)
+![Nav Bar](https://github.com/Huddy2022/Mind-Body-project/blob/main/assets/images/nav_bar.jpg)
 
 - __Home hero image and header__
 
@@ -24,7 +24,7 @@ Mind and body is a site that is aimed to helping any age or fitness level, learn
   - This section introduces the user to Mind & Body with a coloful picture of meditation.
   - The header explains the site offers classes for any age group to learn new techniques with the mind and body.
 
-![Home Page](../Mind-Body-project/assets/images/home_hero_image_and_header.jpg)
+![Home Page](https://github.com/Huddy2022/Mind-Body-project/blob/main/assets/images/home_hero_image_and_header.jpg)
 
 - __Club Ethos Section__
 
@@ -33,21 +33,21 @@ Mind and body is a site that is aimed to helping any age or fitness level, learn
   - Font awesome icons help to visualise what either yoga or pilates focus on. 
   - Both images clearly display type of technqiues for either yoga or pilates.
 
-![Club Ethos](../Mind-Body-project/assets/images/club_ethos.jpg)
+![Club Ethos](https://github.com/Huddy2022/Mind-Body-project/blob/main/assets/images/club_ethos.jpg)
 
 - __About us section__
 
   - The about us section gives a clear indication to what mind and body offers the user.
   - This section also provides an understanding to how the club operates on different day and times through its opening hours table.
 
-![About us](../Mind-Body-project/assets/images/about_us.jpg)
+![About us](https://github.com/Huddy2022/Mind-Body-project/blob/main/assets/images/about_us.jpg)
 
 - __Contact us footer__ 
 
   - The contact us section encourages a user to get in contact with us using online platforms.
   - The footer is valuable to the user as it offers a range of social media sites in which to get in contact with the mind and body club.
 
-![Footer](../Mind-Body-project/assets/images/footer.jpg)
+![Footer](https://github.com/Huddy2022/Mind-Body-project/blob/main/assets/images/footer.jpg)
 
 ### Classes ###
 
@@ -55,7 +55,7 @@ Mind and body is a site that is aimed to helping any age or fitness level, learn
 
   - The main image and cover text explain the classes page to user
   - The cover text is aimed to entice the user to read the relevant sections for yoga and pilates and entice them to pick a class
-  ![Classes header](../Mind-Body-project/assets/images/classes_header.jpg)
+  ![Classes header](https://github.com/Huddy2022/Mind-Body-project/blob/main/assets/images/classes_header.jpg)
 
 - __club classes section__
 
@@ -63,14 +63,14 @@ Mind and body is a site that is aimed to helping any age or fitness level, learn
   - The h2 and h3 headers are are aimed to draw the attention of the user and with the background of white on h3 make it easier for the user to understand the text.
   - Both lists clearly offer a variety of different poses and exercises for either yoga or pilates to help the user understand what each class would entail. 
 
-![Club classes](../Mind-Body-project/assets/images/classes_section.jpg)
+![Club classes](https://github.com/Huddy2022/Mind-Body-project/blob/main/assets/images/classes_section.jpg)
 
 - __class prices__
 
 - In this section there is a table outlining the costs of each class and the cost for each class on different days of the week
 - The h3 part gives the user the understanding of what the section is about and the table outlines each area easily for the user to understand.
 
-![class prices](..//Mind-Body-project/assets/images/class_prices.jpg)
+![class prices](https://github.com/Huddy2022/Mind-Body-project/blob/main/assets/images/class_prices.jpg)
 ### Sign up page ###
 
 - __The Sign Up Page__
