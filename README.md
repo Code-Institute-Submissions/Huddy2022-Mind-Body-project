@@ -79,23 +79,23 @@ Mind and body is a site that is aimed to helping any age or fitness level, learn
   - With the drop down menu it will also allow the user to have a choice of not just which class they would like to sign up for but also which days of the week best suit them.
   - The background image of meditation is designed to make the user feel relaxed in which class they wish to sign up for.
 
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
+![Sign Up](https://github.com/Huddy2022/Mind-Body-project/blob/main/assets/images/sign_up_page.jpg)
 
 ### Thank you page ###
 - __The thank you page__
 
  - Once you have signed up with mind and body, you will be sent to a new page which is the thank you page, which is designed to make the user feel they have made a great choice.
 
-![Thank you](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
+![Thank you](https://github.com/Huddy2022/Mind-Body-project/blob/main/assets/images/thankyou_page.jpg)
 
 ## Testing ##
 
 - __Testing__
 
-- I tested my page on different browser such as google chrome and microsoft edge and both worked fine
+- I tested my page on different browsers such as google chrome and microsoft edge and both worked fine
 - I confirmed my page is responsive, looks good and functions on different devices such as computer, tablet and phone by using dev tools device toolbar.
 - I confirmed the header, logo, navigation, club ethos, about us, footer, classes section, sign up and thank you page text are readable and easy to understand.
-- I have confirmed that the form works on the sing up page, with all sections required to have been filled out, an email address in the email input and the submit button works and links to the thank you page.
+- I have confirmed that the form works on the sign up page, with all sections required to have been filled out, an email address in the email input and the submit button works and links to the thank you page.
 
 ### Validator Testing ###
 
