@@ -105,17 +105,18 @@ Mind and body is a site that is aimed to helping any age or fitness level, learn
 - Orginally i had 6 errors on the index.html, 4 errors on the classes.html, 1 error on the signup.html and 6 errors on the thankyou.html.
 - I can confirm now, no errors were returned when passing through the official w3c validator on all four pages.
 
-  [W3C validator](https://github.com/Huddy2022/Mind-Body-project/blob/main/assets/images/w3c%20markup%20validator.jpg)
+  ![W3C validator](https://github.com/Huddy2022/Mind-Body-project/blob/main/assets/images/w3c%20markup%20validator.jpg)
 
 - __CSS__
 - Orginally i had two errors on my style.css.
   - I can confirm now, no errors were found when passing through the official w3c css validator.
   
-   [(Jigsaw) validator](https://github.com/Huddy2022/Mind-Body-project/blob/main/assets/images/w3c%20css%20validation.jpg)
+   ![(Jigsaw) validator](https://github.com/Huddy2022/Mind-Body-project/blob/main/assets/images/w3c%20css%20validation.jpg)
 
 - __Accessibility__
 - I confirmed the colors and fonts are easy to read and accesibile by running it through lighthouse in dev tools for all four pages.
-[Lighthouse](https://github.com/Huddy2022/Mind-Body-project/blob/main/assets/images/lighthouse.jpg)
+
+![Lighthouse](https://github.com/Huddy2022/Mind-Body-project/blob/main/assets/images/lighthouse.jpg)
 
 ### Bugs ###
 
