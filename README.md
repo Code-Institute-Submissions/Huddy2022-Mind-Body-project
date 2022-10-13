@@ -113,7 +113,7 @@ Mind and body is a site that is aimed to helping any age or fitness level, learn
 
 - __Accessibility__
 - I confirmed the colors and fonts are easy to read and accesibile by running it through lighthouse in dev tools for all four pages.
-[Lighthouse]()
+[Lighthouse](https://github.com/Huddy2022/Mind-Body-project/blob/main/assets/images/lighthouse.jpg)
 
 ### Bugs ###
 
