@@ -1,8 +1,8 @@
-# Mind & Body
+# Mind & Body #
 
 The live link can be found here - https://huddy2022.github.io/Mind-Body-project/ 
 
-Mind and body is a site that is aimed to helping any age or fitness level, learn methods of body/mind self improvement techniques through classes in yoga and pilates. The site will be targeted to men and women of any age and fitness level, who are looking for a way to socialise and keep their mind and body fit. Mind and body will be useful in a way that the user will be able to learn new techniques/exercises/poses to improve the body/mind and to be able to choose classes that fits around their lifestyle. 
+Mind and body is a site that is aimed at helping any age or fitness level, learn methods of body/mind self improvement techniques through classes in yoga and pilates. The site will be targeted to men and women of any age and fitness level, who are looking for a way to socialise and keep their mind and body fit. Mind and body will be useful in a way that the user will be able to learn new techniques/exercises/poses to improve the body/mind and to be able to choose classes that fits around their lifestyle. 
 
 ![Responsive Mockup](https://github.com/Huddy2022/Mind-Body-project/blob/main/assets/images/am_i_responsive.jpg)
 
@@ -16,7 +16,8 @@ Mind and body is a site that is aimed to helping any age or fitness level, learn
   - The logo is linked to the home page so any user can easily navigate to the main home page through this logo.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
   - The navigation is in white with a navy blue background to have an easy contrast for users.
-  - Home, classes and signup have a class="active" attribute that allows the user to understand which page they are on by being underlined
+  - Home, classes and signup have a class="active" attribute that allows the user to understand which page they are on by being underlined.
+  - When hovering over any of the navigation pages a background color appeaers to help the user understand which naviagtion to click.
 
 ![Nav Bar](https://github.com/Huddy2022/Mind-Body-project/blob/main/assets/images/nav_bar.jpg)
 
@@ -31,7 +32,7 @@ Mind and body is a site that is aimed to helping any age or fitness level, learn
 - __Club Ethos Section__
 
   - The club ethos section will allow the user to see the benefits of joining the Mind & Body club, as well as the benefits of doing either yoga or pilates. 
-  - This user will see the value of signing up for the mind & body club and have the benefits of each type of class.
+  - The user will see the value of signing up for the mind & body club and have the benefits of each type of class.
   - Font awesome icons help to visualise what either yoga or pilates focus on. 
   - Both images clearly display type of technqiues for either yoga or pilates.
 
@@ -57,6 +58,7 @@ Mind and body is a site that is aimed to helping any age or fitness level, learn
 
   - The main image and cover text explain the classes page to user
   - The cover text is aimed to entice the user to read the relevant sections for yoga and pilates and entice them to pick a class
+
   ![Classes header](https://github.com/Huddy2022/Mind-Body-project/blob/main/assets/images/classes_header.jpg)
 
 - __club classes section__
@@ -64,6 +66,7 @@ Mind and body is a site that is aimed to helping any age or fitness level, learn
   - In this section it is divided into two divs for either yoga and pilates to give the user a choice on which they would prefer.
   - The h2 and h3 headers are are aimed to draw the attention of the user and with the background of white on h3 make it easier for the user to understand the text.
   - Both lists clearly offer a variety of different poses and exercises for either yoga or pilates to help the user understand what each class would entail. 
+  - Font awesome icons are again used to highlight each classes strength.
 
 ![Club classes](https://github.com/Huddy2022/Mind-Body-project/blob/main/assets/images/classes_section.jpg)
 
@@ -73,6 +76,7 @@ Mind and body is a site that is aimed to helping any age or fitness level, learn
 - The h3 part gives the user the understanding of what the section is about and the table outlines each area easily for the user to understand.
 
 ![class prices](https://github.com/Huddy2022/Mind-Body-project/blob/main/assets/images/class_prices.jpg)
+
 ### Sign up page ###
 
 - __The Sign Up Page__
@@ -80,10 +84,12 @@ Mind and body is a site that is aimed to helping any age or fitness level, learn
   - This page will allow the user to get signed up to mind and body and offer the user the choice of either yoga, pilates or both.
   - With the drop down menu it will also allow the user to have a choice of not just which class they would like to sign up for but also which days of the week best suit them.
   - The background image of meditation is designed to make the user feel relaxed in which class they wish to sign up for.
+  - Each input is required so that the user knows what to do moving forward with the page.
 
 ![Sign Up](https://github.com/Huddy2022/Mind-Body-project/blob/main/assets/images/sign_up_page.jpg)
 
 ### Thank you page ###
+
 - __The thank you page__
 
  - Once you have signed up with mind and body, you will be sent to a new page which is the thank you page, which is designed to make the user feel they have made a great choice.
@@ -98,6 +104,7 @@ Mind and body is a site that is aimed to helping any age or fitness level, learn
 - I confirmed my page is responsive, looks good and functions on different devices such as computer, tablet and phone by using dev tools device toolbar.
 - I confirmed the header, logo, navigation, club ethos, about us, footer, classes section, sign up and thank you page text are readable and easy to understand.
 - I have confirmed that the form works on the sign up page, with all sections required to have been filled out, an email address in the email input and the submit button works and links to the thank you page.
+- I confirmed all three social network links work on all four pages and open on a separate tab.
 
 ### Validator Testing ###
 
@@ -137,7 +144,7 @@ Mind and body is a site that is aimed to helping any age or fitness level, learn
   - From the source section drop-down menu, select the Main Branch
   - Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-
+The live link can be found here - https://huddy2022.github.io/Mind-Body-project/ 
 
 
 ## Credits ##
