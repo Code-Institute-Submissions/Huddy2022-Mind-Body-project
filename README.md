@@ -1,5 +1,7 @@
 # Mind & Body
 
+The live link can be found here - https://huddy2022.github.io/Mind-Body-project/ 
+
 Mind and body is a site that is aimed to helping any age or fitness level, learn methods of body/mind self improvement techniques through classes in yoga and pilates. The site will be targeted to men and women of any age and fitness level, who are looking for a way to socialise and keep their mind and body fit. Mind and body will be useful in a way that the user will be able to learn new techniques/exercises/poses to improve the body/mind and to be able to choose classes that fits around their lifestyle. 
 
 ![Responsive Mockup](https://github.com/Huddy2022/Mind-Body-project/blob/main/assets/images/am_i_responsive.jpg)
@@ -100,7 +102,7 @@ Mind and body is a site that is aimed to helping any age or fitness level, learn
 ### Validator Testing ###
 
 - __HTML__
-- Orginally i had 6 errors on the inex.html, 4 errors on the classes.html, 1 error on the signup.html and 6 errors on the thankyou.html.
+- Orginally i had 6 errors on the index.html, 4 errors on the classes.html, 1 error on the signup.html and 6 errors on the thankyou.html.
 - I can confirm now, no errors were returned when passing through the official w3c validator on all four pages.
 
   [W3C validator](https://github.com/Huddy2022/Mind-Body-project/blob/main/assets/images/w3c%20markup%20validator.jpg)
@@ -134,7 +136,7 @@ Mind and body is a site that is aimed to helping any age or fitness level, learn
   - From the source section drop-down menu, select the Main Branch
   - Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-The live link can be found here - https://huddy2022.github.io/Mind-Body-project/ 
+
 
 
 ## Credits ##
