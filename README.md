@@ -158,6 +158,7 @@ The live link can be found here - https://huddy2022.github.io/Mind-Body-project/
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 - The code to make the header and navigation was taken from CI love running project
 - Part of the code for the footer was taken from the CI love running project
+- Part of the code for the sign up form was used from the love running project
 
 ### Media ###
 
